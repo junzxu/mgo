@@ -1,5 +1,3 @@
-//+build !sasl
-
 package mgo
 
 import (
